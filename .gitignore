@@ -1,0 +1,10 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets; keep a template with dummy values if needed
+.env
+.env.*
+!.env.example
+!.env.sample
