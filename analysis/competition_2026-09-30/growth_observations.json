@@ -1,0 +1,1996 @@
+{
+  "2912051605503235345": [
+    {
+      "date": "2026-08-15",
+      "rank": 82,
+      "star": 84,
+      "episodes": 11,
+      "chars": 105919,
+      "row": 89
+    },
+    {
+      "date": "2026-08-16",
+      "rank": 61,
+      "star": 108,
+      "episodes": 12,
+      "chars": 119198,
+      "row": 90
+    },
+    {
+      "date": "2026-08-17",
+      "rank": 49,
+      "star": 135,
+      "episodes": 13,
+      "chars": 130662,
+      "row": 87
+    },
+    {
+      "date": "2026-08-18",
+      "rank": 47,
+      "star": 173,
+      "episodes": 14,
+      "chars": 142164,
+      "row": 82
+    },
+    {
+      "date": "2026-08-19",
+      "rank": 40,
+      "star": 219,
+      "episodes": 16,
+      "chars": 163620,
+      "row": 81
+    },
+    {
+      "date": "2026-08-20",
+      "rank": 39,
+      "star": 244,
+      "episodes": 17,
+      "chars": 174318,
+      "row": 78
+    },
+    {
+      "date": "2026-08-21",
+      "rank": 35,
+      "star": 272,
+      "episodes": 18,
+      "chars": 185356,
+      "row": 77
+    },
+    {
+      "date": "2026-08-22",
+      "rank": 33,
+      "star": 301,
+      "episodes": 19,
+      "chars": 196774,
+      "row": 74
+    },
+    {
+      "date": "2026-08-23",
+      "rank": 33,
+      "star": 336,
+      "episodes": 20,
+      "chars": 207831,
+      "row": 70
+    },
+    {
+      "date": "2026-08-24",
+      "rank": 34,
+      "star": 369,
+      "episodes": 21,
+      "chars": 218736,
+      "row": 68
+    },
+    {
+      "date": "2026-08-26",
+      "rank": 34,
+      "star": 421,
+      "episodes": 23,
+      "chars": 240401,
+      "row": 63
+    },
+    {
+      "date": "2026-08-27",
+      "rank": 34,
+      "star": 448,
+      "episodes": 24,
+      "chars": 251832,
+      "row": 64
+    },
+    {
+      "date": "2026-08-28",
+      "rank": 34,
+      "star": 490,
+      "episodes": 25,
+      "chars": 263274,
+      "row": 64
+    },
+    {
+      "date": "2026-08-29",
+      "rank": 33,
+      "star": 525,
+      "episodes": 26,
+      "chars": 274153,
+      "row": 63
+    },
+    {
+      "date": "2026-08-30",
+      "rank": 31,
+      "star": 541,
+      "episodes": 27,
+      "chars": 285212,
+      "row": 59
+    },
+    {
+      "date": "2026-08-31",
+      "rank": 29,
+      "star": 553,
+      "episodes": 28,
+      "chars": 296673,
+      "row": 60
+    },
+    {
+      "date": "2026-09-01",
+      "rank": 25,
+      "star": 585,
+      "episodes": 29,
+      "chars": 308196,
+      "row": 59
+    },
+    {
+      "date": "2026-09-03",
+      "rank": 22,
+      "star": 645,
+      "episodes": 31,
+      "chars": 330780,
+      "row": 55
+    },
+    {
+      "date": "2026-09-04",
+      "rank": 29,
+      "star": 656,
+      "episodes": 32,
+      "chars": 341172,
+      "row": 56
+    },
+    {
+      "date": "2026-09-05",
+      "rank": 29,
+      "star": 688,
+      "episodes": 33,
+      "chars": 352536,
+      "row": 56
+    },
+    {
+      "date": "2026-09-07",
+      "rank": 31,
+      "star": 745,
+      "episodes": 35,
+      "chars": 376616,
+      "row": 55
+    },
+    {
+      "date": "2026-09-09",
+      "rank": 34,
+      "star": 779,
+      "episodes": 37,
+      "chars": 396614,
+      "row": 52
+    },
+    {
+      "date": "2026-09-11",
+      "rank": 40,
+      "star": 817,
+      "episodes": 39,
+      "chars": 416450,
+      "row": 50
+    },
+    {
+      "date": "2026-09-12",
+      "rank": 43,
+      "star": 828,
+      "episodes": 40,
+      "chars": 427016,
+      "row": 54
+    },
+    {
+      "date": "2026-09-15",
+      "rank": 43,
+      "star": 881,
+      "episodes": 43,
+      "chars": 457757,
+      "row": 42
+    },
+    {
+      "date": "2026-09-16",
+      "rank": 42,
+      "star": 893,
+      "episodes": 44,
+      "chars": 469215,
+      "row": 43
+    },
+    {
+      "date": "2026-09-18",
+      "rank": 49,
+      "star": 928,
+      "episodes": 46,
+      "chars": 492102,
+      "row": 46
+    },
+    {
+      "date": "2026-09-19",
+      "rank": 48,
+      "star": 935,
+      "episodes": 47,
+      "chars": 501927,
+      "row": 46
+    },
+    {
+      "date": "2026-09-20",
+      "rank": 54,
+      "star": 946,
+      "episodes": 48,
+      "chars": 511379,
+      "row": 48
+    },
+    {
+      "date": "2026-09-21",
+      "rank": 45,
+      "star": 957,
+      "episodes": 49,
+      "chars": 521891,
+      "row": 48
+    },
+    {
+      "date": "2026-09-22",
+      "rank": 49,
+      "star": 971,
+      "episodes": 50,
+      "chars": 531646,
+      "row": 50
+    },
+    {
+      "date": "2026-09-23",
+      "rank": 50,
+      "star": 980,
+      "episodes": 51,
+      "chars": 541532,
+      "row": 52
+    },
+    {
+      "date": "2026-09-24",
+      "rank": 57,
+      "star": 995,
+      "episodes": 52,
+      "chars": 551654,
+      "row": 52
+    },
+    {
+      "date": "2026-09-30",
+      "rank": 62,
+      "star": 1034,
+      "episodes": 58,
+      "chars": 610771,
+      "row": 52
+    }
+  ],
+  "2912051601660958663": [
+    {
+      "date": "2026-07-31",
+      "rank": 17,
+      "star": 3052,
+      "episodes": 70,
+      "chars": 226192,
+      "row": 42
+    },
+    {
+      "date": "2026-08-01",
+      "rank": 22,
+      "star": 3070,
+      "episodes": 71,
+      "chars": 229301,
+      "row": 38
+    },
+    {
+      "date": "2026-08-02",
+      "rank": 26,
+      "star": 3099,
+      "episodes": 72,
+      "chars": 232579,
+      "row": 36
+    },
+    {
+      "date": "2026-08-03",
+      "rank": 33,
+      "star": 3123,
+      "episodes": 73,
+      "chars": 236835,
+      "row": 36
+    },
+    {
+      "date": "2026-08-04",
+      "rank": 37,
+      "star": 3138,
+      "episodes": 74,
+      "chars": 239597,
+      "row": 34
+    },
+    {
+      "date": "2026-08-05",
+      "rank": 43,
+      "star": 3161,
+      "episodes": 75,
+      "chars": 242955,
+      "row": 33
+    },
+    {
+      "date": "2026-08-07",
+      "rank": 52,
+      "star": 3211,
+      "episodes": 77,
+      "chars": 252850,
+      "row": 33
+    },
+    {
+      "date": "2026-08-08",
+      "rank": 57,
+      "star": 3224,
+      "episodes": 78,
+      "chars": 256930,
+      "row": 31
+    },
+    {
+      "date": "2026-08-09",
+      "rank": 73,
+      "star": 3241,
+      "episodes": 79,
+      "chars": 260908,
+      "row": 34
+    },
+    {
+      "date": "2026-08-10",
+      "rank": 75,
+      "star": 3258,
+      "episodes": 80,
+      "chars": 265725,
+      "row": 36
+    },
+    {
+      "date": "2026-08-11",
+      "rank": 72,
+      "star": 3284,
+      "episodes": 81,
+      "chars": 269958,
+      "row": 35
+    },
+    {
+      "date": "2026-08-12",
+      "rank": 74,
+      "star": 3312,
+      "episodes": 82,
+      "chars": 273223,
+      "row": 34
+    },
+    {
+      "date": "2026-08-13",
+      "rank": 74,
+      "star": 3331,
+      "episodes": 84,
+      "chars": 282313,
+      "row": 34
+    },
+    {
+      "date": "2026-08-14",
+      "rank": 70,
+      "star": 3357,
+      "episodes": 85,
+      "chars": 286405,
+      "row": 34
+    },
+    {
+      "date": "2026-08-15",
+      "rank": 75,
+      "star": 3361,
+      "episodes": 86,
+      "chars": 289958,
+      "row": 32
+    },
+    {
+      "date": "2026-08-16",
+      "rank": 78,
+      "star": 3373,
+      "episodes": 87,
+      "chars": 292800,
+      "row": 34
+    },
+    {
+      "date": "2026-08-17",
+      "rank": 76,
+      "star": 3386,
+      "episodes": 88,
+      "chars": 295280,
+      "row": 30
+    },
+    {
+      "date": "2026-08-18",
+      "rank": 96,
+      "star": 3398,
+      "episodes": 89,
+      "chars": 297713,
+      "row": 28
+    }
+  ],
+  "2912051603776752865": [
+    {
+      "date": "2026-07-31",
+      "rank": 87,
+      "star": 171,
+      "episodes": 99,
+      "chars": 603536,
+      "row": 181
+    },
+    {
+      "date": "2026-08-01",
+      "rank": 91,
+      "star": 176,
+      "episodes": 102,
+      "chars": 617304,
+      "row": 174
+    },
+    {
+      "date": "2026-08-02",
+      "rank": 97,
+      "star": 179,
+      "episodes": 103,
+      "chars": 621840,
+      "row": 172
+    },
+    {
+      "date": "2026-08-03",
+      "rank": 95,
+      "star": 189,
+      "episodes": 104,
+      "chars": 616339,
+      "row": 167
+    }
+  ],
+  "2912051605512754789": [
+    {
+      "date": "2026-08-19",
+      "rank": 99,
+      "star": 84,
+      "episodes": 53,
+      "chars": 198014,
+      "row": 83
+    },
+    {
+      "date": "2026-08-20",
+      "rank": 87,
+      "star": 88,
+      "episodes": 56,
+      "chars": 209049,
+      "row": 80
+    },
+    {
+      "date": "2026-08-21",
+      "rank": 81,
+      "star": 91,
+      "episodes": 60,
+      "chars": 223533,
+      "row": 79
+    },
+    {
+      "date": "2026-08-22",
+      "rank": 72,
+      "star": 97,
+      "episodes": 61,
+      "chars": 227050,
+      "row": 76
+    },
+    {
+      "date": "2026-08-23",
+      "rank": 81,
+      "star": 108,
+      "episodes": 63,
+      "chars": 233919,
+      "row": 73
+    },
+    {
+      "date": "2026-08-24",
+      "rank": 72,
+      "star": 117,
+      "episodes": 64,
+      "chars": 237551,
+      "row": 71
+    },
+    {
+      "date": "2026-08-26",
+      "rank": 89,
+      "star": 120,
+      "episodes": 66,
+      "chars": 244867,
+      "row": 66
+    },
+    {
+      "date": "2026-08-27",
+      "rank": 95,
+      "star": 123,
+      "episodes": 67,
+      "chars": 248938,
+      "row": 67
+    }
+  ],
+  "2912051604996628001": [
+    {
+      "date": "2026-07-31",
+      "rank": 36,
+      "star": 205,
+      "episodes": 7,
+      "chars": 83315,
+      "row": 102
+    },
+    {
+      "date": "2026-08-01",
+      "rank": 19,
+      "star": 251,
+      "episodes": 8,
+      "chars": 94918,
+      "row": 97
+    },
+    {
+      "date": "2026-08-02",
+      "rank": 17,
+      "star": 306,
+      "episodes": 8,
+      "chars": 94918,
+      "row": 96
+    },
+    {
+      "date": "2026-08-03",
+      "rank": 13,
+      "star": 346,
+      "episodes": 9,
+      "chars": 109488,
+      "row": 97
+    },
+    {
+      "date": "2026-08-04",
+      "rank": 13,
+      "star": 402,
+      "episodes": 10,
+      "chars": 124446,
+      "row": 98
+    },
+    {
+      "date": "2026-08-05",
+      "rank": 13,
+      "star": 443,
+      "episodes": 11,
+      "chars": 138332,
+      "row": 95
+    },
+    {
+      "date": "2026-08-07",
+      "rank": 15,
+      "star": 542,
+      "episodes": 15,
+      "chars": 190573,
+      "row": 93
+    },
+    {
+      "date": "2026-08-08",
+      "rank": 14,
+      "star": 553,
+      "episodes": 17,
+      "chars": 221418,
+      "row": 87
+    },
+    {
+      "date": "2026-08-09",
+      "rank": 16,
+      "star": 577,
+      "episodes": 19,
+      "chars": 247756,
+      "row": 89
+    },
+    {
+      "date": "2026-08-10",
+      "rank": 15,
+      "star": 589,
+      "episodes": 21,
+      "chars": 268499,
+      "row": 87
+    },
+    {
+      "date": "2026-08-11",
+      "rank": 19,
+      "star": 615,
+      "episodes": 22,
+      "chars": 280289,
+      "row": 85
+    },
+    {
+      "date": "2026-08-12",
+      "rank": 26,
+      "star": 634,
+      "episodes": 25,
+      "chars": 309040,
+      "row": 81
+    },
+    {
+      "date": "2026-08-13",
+      "rank": 28,
+      "star": 655,
+      "episodes": 26,
+      "chars": 317868,
+      "row": 80
+    },
+    {
+      "date": "2026-08-14",
+      "rank": 31,
+      "star": 664,
+      "episodes": 27,
+      "chars": 326013,
+      "row": 79
+    },
+    {
+      "date": "2026-08-15",
+      "rank": 32,
+      "star": 679,
+      "episodes": 29,
+      "chars": 346036,
+      "row": 78
+    },
+    {
+      "date": "2026-08-16",
+      "rank": 33,
+      "star": 696,
+      "episodes": 30,
+      "chars": 355289,
+      "row": 79
+    },
+    {
+      "date": "2026-08-17",
+      "rank": 36,
+      "star": 724,
+      "episodes": 31,
+      "chars": 367279,
+      "row": 73
+    },
+    {
+      "date": "2026-08-18",
+      "rank": 36,
+      "star": 737,
+      "episodes": 32,
+      "chars": 378279,
+      "row": 68
+    },
+    {
+      "date": "2026-08-19",
+      "rank": 37,
+      "star": 764,
+      "episodes": 33,
+      "chars": 389052,
+      "row": 68
+    },
+    {
+      "date": "2026-08-20",
+      "rank": 41,
+      "star": 778,
+      "episodes": 34,
+      "chars": 399551,
+      "row": 66
+    },
+    {
+      "date": "2026-08-21",
+      "rank": 39,
+      "star": 790,
+      "episodes": 35,
+      "chars": 408288,
+      "row": 65
+    },
+    {
+      "date": "2026-08-22",
+      "rank": 41,
+      "star": 802,
+      "episodes": 35,
+      "chars": 408288,
+      "row": 63
+    },
+    {
+      "date": "2026-08-23",
+      "rank": 41,
+      "star": 813,
+      "episodes": 36,
+      "chars": 416384,
+      "row": 60
+    },
+    {
+      "date": "2026-08-24",
+      "rank": 44,
+      "star": 823,
+      "episodes": 36,
+      "chars": 416384,
+      "row": 57
+    },
+    {
+      "date": "2026-08-26",
+      "rank": 49,
+      "star": 863,
+      "episodes": 37,
+      "chars": 426204,
+      "row": 53
+    },
+    {
+      "date": "2026-08-27",
+      "rank": 46,
+      "star": 876,
+      "episodes": 37,
+      "chars": 426204,
+      "row": 54
+    },
+    {
+      "date": "2026-08-28",
+      "rank": 42,
+      "star": 892,
+      "episodes": 38,
+      "chars": 432044,
+      "row": 53
+    },
+    {
+      "date": "2026-08-29",
+      "rank": 43,
+      "star": 908,
+      "episodes": 38,
+      "chars": 432044,
+      "row": 52
+    },
+    {
+      "date": "2026-08-30",
+      "rank": 42,
+      "star": 927,
+      "episodes": 39,
+      "chars": 440502,
+      "row": 49
+    },
+    {
+      "date": "2026-08-31",
+      "rank": 43,
+      "star": 948,
+      "episodes": 40,
+      "chars": 451576,
+      "row": 50
+    },
+    {
+      "date": "2026-09-01",
+      "rank": 44,
+      "star": 956,
+      "episodes": 40,
+      "chars": 451576,
+      "row": 49
+    },
+    {
+      "date": "2026-09-03",
+      "rank": 56,
+      "star": 968,
+      "episodes": 40,
+      "chars": 451576,
+      "row": 46
+    },
+    {
+      "date": "2026-09-04",
+      "rank": 59,
+      "star": 977,
+      "episodes": 41,
+      "chars": 457981,
+      "row": 47
+    },
+    {
+      "date": "2026-09-05",
+      "rank": 61,
+      "star": 983,
+      "episodes": 41,
+      "chars": 457981,
+      "row": 47
+    },
+    {
+      "date": "2026-09-07",
+      "rank": 71,
+      "star": 989,
+      "episodes": 42,
+      "chars": 469770,
+      "row": 46
+    },
+    {
+      "date": "2026-09-09",
+      "rank": 81,
+      "star": 1008,
+      "episodes": 43,
+      "chars": 478108,
+      "row": 44
+    },
+    {
+      "date": "2026-09-11",
+      "rank": 81,
+      "star": 1023,
+      "episodes": 44,
+      "chars": 486431,
+      "row": 43
+    },
+    {
+      "date": "2026-09-12",
+      "rank": 77,
+      "star": 1036,
+      "episodes": 45,
+      "chars": 494273,
+      "row": 47
+    },
+    {
+      "date": "2026-09-15",
+      "rank": 64,
+      "star": 1065,
+      "episodes": 47,
+      "chars": 508990,
+      "row": 37
+    },
+    {
+      "date": "2026-09-16",
+      "rank": 64,
+      "star": 1072,
+      "episodes": 48,
+      "chars": 514435,
+      "row": 38
+    },
+    {
+      "date": "2026-09-18",
+      "rank": 60,
+      "star": 1075,
+      "episodes": 49,
+      "chars": 521068,
+      "row": 41
+    },
+    {
+      "date": "2026-09-19",
+      "rank": 64,
+      "star": 1080,
+      "episodes": 49,
+      "chars": 521068,
+      "row": 42
+    },
+    {
+      "date": "2026-09-20",
+      "rank": 65,
+      "star": 1080,
+      "episodes": 50,
+      "chars": 529009,
+      "row": 44
+    },
+    {
+      "date": "2026-09-21",
+      "rank": 79,
+      "star": 1083,
+      "episodes": 51,
+      "chars": 537445,
+      "row": 44
+    },
+    {
+      "date": "2026-09-22",
+      "rank": 82,
+      "star": 1088,
+      "episodes": 52,
+      "chars": 546506,
+      "row": 46
+    },
+    {
+      "date": "2026-09-23",
+      "rank": 86,
+      "star": 1093,
+      "episodes": 52,
+      "chars": 546506,
+      "row": 48
+    },
+    {
+      "date": "2026-09-24",
+      "rank": 81,
+      "star": 1107,
+      "episodes": 53,
+      "chars": 552534,
+      "row": 48
+    },
+    {
+      "date": "2026-09-30",
+      "rank": 77,
+      "star": 1149,
+      "episodes": 57,
+      "chars": 581715,
+      "row": 48
+    }
+  ],
+  "2912051597492612020": [
+    {
+      "date": "2026-07-31",
+      "rank": 55,
+      "star": 981,
+      "episodes": 66,
+      "chars": 170328,
+      "row": 10
+    },
+    {
+      "date": "2026-08-01",
+      "rank": 58,
+      "star": 989,
+      "episodes": 67,
+      "chars": 173490,
+      "row": 9
+    },
+    {
+      "date": "2026-08-02",
+      "rank": 62,
+      "star": 1009,
+      "episodes": 68,
+      "chars": 175627,
+      "row": 8
+    },
+    {
+      "date": "2026-08-03",
+      "rank": 75,
+      "star": 1024,
+      "episodes": 69,
+      "chars": 177908,
+      "row": 8
+    },
+    {
+      "date": "2026-08-04",
+      "rank": 85,
+      "star": 1028,
+      "episodes": 70,
+      "chars": 180842,
+      "row": 8
+    },
+    {
+      "date": "2026-08-05",
+      "rank": 83,
+      "star": 1042,
+      "episodes": 71,
+      "chars": 183261,
+      "row": 9
+    },
+    {
+      "date": "2026-08-07",
+      "rank": 89,
+      "star": 1073,
+      "episodes": 73,
+      "chars": 187793,
+      "row": 11
+    },
+    {
+      "date": "2026-08-08",
+      "rank": 87,
+      "star": 1081,
+      "episodes": 74,
+      "chars": 190676,
+      "row": 11
+    },
+    {
+      "date": "2026-08-09",
+      "rank": 87,
+      "star": 1092,
+      "episodes": 75,
+      "chars": 193363,
+      "row": 13
+    },
+    {
+      "date": "2026-08-10",
+      "rank": 74,
+      "star": 1111,
+      "episodes": 76,
+      "chars": 196041,
+      "row": 15
+    },
+    {
+      "date": "2026-08-11",
+      "rank": 69,
+      "star": 1133,
+      "episodes": 77,
+      "chars": 199105,
+      "row": 14
+    },
+    {
+      "date": "2026-08-12",
+      "rank": 71,
+      "star": 1150,
+      "episodes": 78,
+      "chars": 202500,
+      "row": 15
+    },
+    {
+      "date": "2026-08-13",
+      "rank": 57,
+      "star": 1180,
+      "episodes": 79,
+      "chars": 205714,
+      "row": 15
+    },
+    {
+      "date": "2026-08-14",
+      "rank": 57,
+      "star": 1201,
+      "episodes": 80,
+      "chars": 208981,
+      "row": 15
+    },
+    {
+      "date": "2026-08-15",
+      "rank": 53,
+      "star": 1225,
+      "episodes": 81,
+      "chars": 211963,
+      "row": 14
+    },
+    {
+      "date": "2026-08-16",
+      "rank": 52,
+      "star": 1244,
+      "episodes": 82,
+      "chars": 214469,
+      "row": 15
+    },
+    {
+      "date": "2026-08-17",
+      "rank": 53,
+      "star": 1271,
+      "episodes": 83,
+      "chars": 216888,
+      "row": 12
+    },
+    {
+      "date": "2026-08-18",
+      "rank": 54,
+      "star": 1288,
+      "episodes": 84,
+      "chars": 219430,
+      "row": 11
+    },
+    {
+      "date": "2026-08-19",
+      "rank": 62,
+      "star": 1300,
+      "episodes": 85,
+      "chars": 221753,
+      "row": 11
+    },
+    {
+      "date": "2026-08-20",
+      "rank": 63,
+      "star": 1307,
+      "episodes": 86,
+      "chars": 224053,
+      "row": 11
+    },
+    {
+      "date": "2026-08-21",
+      "rank": 65,
+      "star": 1315,
+      "episodes": 87,
+      "chars": 226303,
+      "row": 11
+    },
+    {
+      "date": "2026-08-22",
+      "rank": 67,
+      "star": 1328,
+      "episodes": 88,
+      "chars": 228693,
+      "row": 11
+    },
+    {
+      "date": "2026-08-23",
+      "rank": 71,
+      "star": 1345,
+      "episodes": 89,
+      "chars": 231070,
+      "row": 11
+    },
+    {
+      "date": "2026-08-24",
+      "rank": 76,
+      "star": 1371,
+      "episodes": 90,
+      "chars": 233222,
+      "row": 10
+    },
+    {
+      "date": "2026-08-26",
+      "rank": 86,
+      "star": 1386,
+      "episodes": 92,
+      "chars": 238185,
+      "row": 11
+    },
+    {
+      "date": "2026-08-27",
+      "rank": 82,
+      "star": 1399,
+      "episodes": 93,
+      "chars": 240974,
+      "row": 11
+    },
+    {
+      "date": "2026-08-28",
+      "rank": 75,
+      "star": 1416,
+      "episodes": 94,
+      "chars": 243662,
+      "row": 12
+    },
+    {
+      "date": "2026-08-29",
+      "rank": 79,
+      "star": 1425,
+      "episodes": 95,
+      "chars": 246346,
+      "row": 12
+    },
+    {
+      "date": "2026-08-30",
+      "rank": 88,
+      "star": 1433,
+      "episodes": 96,
+      "chars": 248821,
+      "row": 11
+    },
+    {
+      "date": "2026-08-31",
+      "rank": 90,
+      "star": 1444,
+      "episodes": 97,
+      "chars": 251227,
+      "row": 13
+    },
+    {
+      "date": "2026-09-01",
+      "rank": 98,
+      "star": 1461,
+      "episodes": 98,
+      "chars": 253788,
+      "row": 12
+    },
+    {
+      "date": "2026-09-03",
+      "rank": 94,
+      "star": 1475,
+      "episodes": 100,
+      "chars": 257040,
+      "row": 11
+    },
+    {
+      "date": "2026-09-04",
+      "rank": 96,
+      "star": 1481,
+      "episodes": 101,
+      "chars": 259317,
+      "row": 12
+    },
+    {
+      "date": "2026-09-05",
+      "rank": 89,
+      "star": 1490,
+      "episodes": 102,
+      "chars": 261784,
+      "row": 13
+    },
+    {
+      "date": "2026-09-07",
+      "rank": 73,
+      "star": 1522,
+      "episodes": 104,
+      "chars": 266606,
+      "row": 12
+    },
+    {
+      "date": "2026-09-09",
+      "rank": 71,
+      "star": 1557,
+      "episodes": 106,
+      "chars": 271464,
+      "row": 12
+    },
+    {
+      "date": "2026-09-11",
+      "rank": 66,
+      "star": 1576,
+      "episodes": 108,
+      "chars": 275704,
+      "row": 11
+    },
+    {
+      "date": "2026-09-12",
+      "rank": 62,
+      "star": 1590,
+      "episodes": 109,
+      "chars": 277808,
+      "row": 14
+    },
+    {
+      "date": "2026-09-15",
+      "rank": 58,
+      "star": 1648,
+      "episodes": 112,
+      "chars": 285451,
+      "row": 12
+    },
+    {
+      "date": "2026-09-16",
+      "rank": 62,
+      "star": 1656,
+      "episodes": 113,
+      "chars": 287805,
+      "row": 13
+    },
+    {
+      "date": "2026-09-18",
+      "rank": 68,
+      "star": 1665,
+      "episodes": 115,
+      "chars": 292600,
+      "row": 16
+    },
+    {
+      "date": "2026-09-19",
+      "rank": 70,
+      "star": 1671,
+      "episodes": 116,
+      "chars": 295073,
+      "row": 20
+    },
+    {
+      "date": "2026-09-20",
+      "rank": 77,
+      "star": 1679,
+      "episodes": 117,
+      "chars": 297713,
+      "row": 22
+    },
+    {
+      "date": "2026-09-21",
+      "rank": 86,
+      "star": 1687,
+      "episodes": 118,
+      "chars": 300062,
+      "row": 24
+    },
+    {
+      "date": "2026-09-22",
+      "rank": 92,
+      "star": 1699,
+      "episodes": 119,
+      "chars": 302376,
+      "row": 28
+    },
+    {
+      "date": "2026-09-23",
+      "rank": 93,
+      "star": 1720,
+      "episodes": 120,
+      "chars": 304838,
+      "row": 31
+    },
+    {
+      "date": "2026-09-24",
+      "rank": 89,
+      "star": 1733,
+      "episodes": 121,
+      "chars": 307279,
+      "row": 33
+    }
+  ],
+  "2912051607205969130": [
+    {
+      "date": "2026-09-09",
+      "rank": 94,
+      "star": 163,
+      "episodes": 7,
+      "chars": 33384,
+      "row": 192
+    },
+    {
+      "date": "2026-09-10",
+      "rank": 73,
+      "star": 204,
+      "episodes": 8,
+      "chars": 37532,
+      "row": 182
+    },
+    {
+      "date": "2026-09-11",
+      "rank": 60,
+      "star": 280,
+      "episodes": 9,
+      "chars": 41952,
+      "row": 182
+    },
+    {
+      "date": "2026-09-12",
+      "rank": 48,
+      "star": 378,
+      "episodes": 10,
+      "chars": 46891,
+      "row": 186
+    },
+    {
+      "date": "2026-09-13",
+      "rank": 40,
+      "star": 440,
+      "episodes": 11,
+      "chars": 50827,
+      "row": 182
+    },
+    {
+      "date": "2026-09-15",
+      "rank": 34,
+      "star": 565,
+      "episodes": 12,
+      "chars": 53949,
+      "row": 184
+    },
+    {
+      "date": "2026-09-16",
+      "rank": 29,
+      "star": 611,
+      "episodes": 13,
+      "chars": 57047,
+      "row": 184
+    },
+    {
+      "date": "2026-09-18",
+      "rank": 31,
+      "star": 728,
+      "episodes": 15,
+      "chars": 63021,
+      "row": 190
+    },
+    {
+      "date": "2026-09-19",
+      "rank": 30,
+      "star": 794,
+      "episodes": 16,
+      "chars": 64988,
+      "row": 187
+    },
+    {
+      "date": "2026-09-20",
+      "rank": 31,
+      "star": 878,
+      "episodes": 17,
+      "chars": 67231,
+      "row": 183
+    },
+    {
+      "date": "2026-09-21",
+      "rank": 30,
+      "star": 943,
+      "episodes": 18,
+      "chars": 69369,
+      "row": 188
+    },
+    {
+      "date": "2026-09-24",
+      "rank": 28,
+      "star": 1170,
+      "episodes": 21,
+      "chars": 76594,
+      "row": 182
+    },
+    {
+      "date": "2026-09-30",
+      "rank": 22,
+      "star": 1612,
+      "episodes": 26,
+      "chars": 89739,
+      "row": 181
+    }
+  ],
+  "2912051602624199029": [
+    {
+      "date": "2026-07-31",
+      "rank": 5,
+      "star": 10953,
+      "episodes": 51,
+      "chars": 197309,
+      "row": 163
+    },
+    {
+      "date": "2026-08-01",
+      "rank": 5,
+      "star": 11117,
+      "episodes": 51,
+      "chars": 197309,
+      "row": 155
+    },
+    {
+      "date": "2026-08-02",
+      "rank": 5,
+      "star": 11389,
+      "episodes": 52,
+      "chars": 201003,
+      "row": 154
+    },
+    {
+      "date": "2026-08-03",
+      "rank": 6,
+      "star": 11682,
+      "episodes": 53,
+      "chars": 204881,
+      "row": 151
+    },
+    {
+      "date": "2026-08-04",
+      "rank": 6,
+      "star": 11860,
+      "episodes": 54,
+      "chars": 209032,
+      "row": 154
+    },
+    {
+      "date": "2026-08-05",
+      "rank": 6,
+      "star": 12075,
+      "episodes": 55,
+      "chars": 213593,
+      "row": 153
+    },
+    {
+      "date": "2026-08-07",
+      "rank": 5,
+      "star": 13081,
+      "episodes": 58,
+      "chars": 227174,
+      "row": 150
+    },
+    {
+      "date": "2026-08-08",
+      "rank": 6,
+      "star": 13225,
+      "episodes": 58,
+      "chars": 227254,
+      "row": 146
+    },
+    {
+      "date": "2026-08-09",
+      "rank": 5,
+      "star": 13922,
+      "episodes": 59,
+      "chars": 231743,
+      "row": 148
+    },
+    {
+      "date": "2026-08-10",
+      "rank": 5,
+      "star": 14193,
+      "episodes": 60,
+      "chars": 236840,
+      "row": 149
+    },
+    {
+      "date": "2026-08-11",
+      "rank": 5,
+      "star": 14354,
+      "episodes": 61,
+      "chars": 240736,
+      "row": 147
+    },
+    {
+      "date": "2026-08-12",
+      "rank": 5,
+      "star": 14604,
+      "episodes": 62,
+      "chars": 245988,
+      "row": 143
+    },
+    {
+      "date": "2026-08-14",
+      "rank": 4,
+      "star": 14989,
+      "episodes": 64,
+      "chars": 254798,
+      "row": 135
+    },
+    {
+      "date": "2026-08-16",
+      "rank": 5,
+      "star": 15672,
+      "episodes": 66,
+      "chars": 264011,
+      "row": 136
+    },
+    {
+      "date": "2026-08-17",
+      "rank": 5,
+      "star": 15893,
+      "episodes": 67,
+      "chars": 268783,
+      "row": 136
+    },
+    {
+      "date": "2026-08-19",
+      "rank": 6,
+      "star": 16171,
+      "episodes": 69,
+      "chars": 278451,
+      "row": 133
+    },
+    {
+      "date": "2026-08-21",
+      "rank": 7,
+      "star": 16460,
+      "episodes": 71,
+      "chars": 287785,
+      "row": 133
+    },
+    {
+      "date": "2026-08-22",
+      "rank": 9,
+      "star": 16587,
+      "episodes": 72,
+      "chars": 292523,
+      "row": 134
+    },
+    {
+      "date": "2026-08-23",
+      "rank": 10,
+      "star": 16745,
+      "episodes": 73,
+      "chars": 297478,
+      "row": 136
+    },
+    {
+      "date": "2026-08-24",
+      "rank": 10,
+      "star": 17216,
+      "episodes": 74,
+      "chars": 303636,
+      "row": 134
+    },
+    {
+      "date": "2026-08-25",
+      "rank": 10,
+      "star": 17335,
+      "episodes": 75,
+      "chars": 309563,
+      "row": 127
+    },
+    {
+      "date": "2026-08-26",
+      "rank": 10,
+      "star": 17479,
+      "episodes": 76,
+      "chars": 314117,
+      "row": 129
+    },
+    {
+      "date": "2026-08-27",
+      "rank": 8,
+      "star": 17598,
+      "episodes": 77,
+      "chars": 319186,
+      "row": 131
+    },
+    {
+      "date": "2026-08-28",
+      "rank": 8,
+      "star": 17778,
+      "episodes": 78,
+      "chars": 324476,
+      "row": 132
+    },
+    {
+      "date": "2026-08-30",
+      "rank": 10,
+      "star": 18021,
+      "episodes": 80,
+      "chars": 337353,
+      "row": 130
+    },
+    {
+      "date": "2026-08-31",
+      "rank": 12,
+      "star": 18144,
+      "episodes": 81,
+      "chars": 341364,
+      "row": 130
+    },
+    {
+      "date": "2026-09-02",
+      "rank": 14,
+      "star": 18397,
+      "episodes": 83,
+      "chars": 353112,
+      "row": 126
+    },
+    {
+      "date": "2026-09-03",
+      "rank": 14,
+      "star": 18630,
+      "episodes": 84,
+      "chars": 358060,
+      "row": 126
+    },
+    {
+      "date": "2026-09-04",
+      "rank": 15,
+      "star": 18723,
+      "episodes": 85,
+      "chars": 362963,
+      "row": 128
+    },
+    {
+      "date": "2026-09-05",
+      "rank": 16,
+      "star": 18811,
+      "episodes": 86,
+      "chars": 373419,
+      "row": 129
+    },
+    {
+      "date": "2026-09-06",
+      "rank": 16,
+      "star": 18929,
+      "episodes": 87,
+      "chars": 378427,
+      "row": 125
+    },
+    {
+      "date": "2026-09-07",
+      "rank": 15,
+      "star": 19033,
+      "episodes": 88,
+      "chars": 383821,
+      "row": 124
+    },
+    {
+      "date": "2026-09-08",
+      "rank": 16,
+      "star": 19118,
+      "episodes": 89,
+      "chars": 388879,
+      "row": 123
+    },
+    {
+      "date": "2026-09-09",
+      "rank": 16,
+      "star": 19225,
+      "episodes": 90,
+      "chars": 394589,
+      "row": 123
+    },
+    {
+      "date": "2026-09-10",
+      "rank": 17,
+      "star": 19503,
+      "episodes": 91,
+      "chars": 402104,
+      "row": 120
+    },
+    {
+      "date": "2026-09-11",
+      "rank": 16,
+      "star": 19623,
+      "episodes": 92,
+      "chars": 407876,
+      "row": 120
+    },
+    {
+      "date": "2026-09-12",
+      "rank": 16,
+      "star": 19675,
+      "episodes": 93,
+      "chars": 412095,
+      "row": 124
+    },
+    {
+      "date": "2026-09-13",
+      "rank": 18,
+      "star": 19742,
+      "episodes": 94,
+      "chars": 417279,
+      "row": 119
+    },
+    {
+      "date": "2026-09-15",
+      "rank": 21,
+      "star": 19980,
+      "episodes": 96,
+      "chars": 427687,
+      "row": 124
+    },
+    {
+      "date": "2026-09-16",
+      "rank": 22,
+      "star": 20057,
+      "episodes": 97,
+      "chars": 433080,
+      "row": 128
+    },
+    {
+      "date": "2026-09-18",
+      "rank": 23,
+      "star": 20495,
+      "episodes": 99,
+      "chars": 443827,
+      "row": 134
+    },
+    {
+      "date": "2026-09-19",
+      "rank": 22,
+      "star": 20578,
+      "episodes": 100,
+      "chars": 449696,
+      "row": 135
+    },
+    {
+      "date": "2026-09-20",
+      "rank": 23,
+      "star": 20650,
+      "episodes": 101,
+      "chars": 455904,
+      "row": 134
+    },
+    {
+      "date": "2026-09-21",
+      "rank": 22,
+      "star": 20755,
+      "episodes": 102,
+      "chars": 461280,
+      "row": 139
+    },
+    {
+      "date": "2026-09-24",
+      "rank": 27,
+      "star": 20965,
+      "episodes": 105,
+      "chars": 476063,
+      "row": 140
+    },
+    {
+      "date": "2026-09-30",
+      "rank": 29,
+      "star": 21266,
+      "episodes": 112,
+      "chars": 509445,
+      "row": 145
+    }
+  ],
+  "2912051606315298034": [
+    {
+      "date": "2026-08-22",
+      "rank": 79,
+      "star": 193,
+      "episodes": 37,
+      "chars": 32385,
+      "row": 204
+    },
+    {
+      "date": "2026-08-23",
+      "rank": 50,
+      "star": 301,
+      "episodes": 43,
+      "chars": 36442,
+      "row": 199
+    },
+    {
+      "date": "2026-08-24",
+      "rank": 30,
+      "star": 406,
+      "episodes": 49,
+      "chars": 39999,
+      "row": 198
+    },
+    {
+      "date": "2026-08-25",
+      "rank": 19,
+      "star": 527,
+      "episodes": 56,
+      "chars": 43937,
+      "row": 188
+    },
+    {
+      "date": "2026-08-26",
+      "rank": 14,
+      "star": 692,
+      "episodes": 61,
+      "chars": 46654,
+      "row": 191
+    },
+    {
+      "date": "2026-08-27",
+      "rank": 11,
+      "star": 834,
+      "episodes": 65,
+      "chars": 49638,
+      "row": 190
+    },
+    {
+      "date": "2026-08-28",
+      "rank": 7,
+      "star": 1028,
+      "episodes": 69,
+      "chars": 52480,
+      "row": 191
+    },
+    {
+      "date": "2026-08-30",
+      "rank": 5,
+      "star": 1634,
+      "episodes": 77,
+      "chars": 57109,
+      "row": 185
+    },
+    {
+      "date": "2026-08-31",
+      "rank": 5,
+      "star": 2076,
+      "episodes": 80,
+      "chars": 59990,
+      "row": 187
+    },
+    {
+      "date": "2026-09-02",
+      "rank": 4,
+      "star": 2719,
+      "episodes": 85,
+      "chars": 70322,
+      "row": 179
+    },
+    {
+      "date": "2026-09-03",
+      "rank": 3,
+      "star": 3151,
+      "episodes": 87,
+      "chars": 75701,
+      "row": 181
+    },
+    {
+      "date": "2026-09-04",
+      "rank": 2,
+      "star": 3511,
+      "episodes": 89,
+      "chars": 81258,
+      "row": 182
+    },
+    {
+      "date": "2026-09-05",
+      "rank": 2,
+      "star": 3906,
+      "episodes": 91,
+      "chars": 86951,
+      "row": 183
+    },
+    {
+      "date": "2026-09-06",
+      "rank": 2,
+      "star": 4411,
+      "episodes": 95,
+      "chars": 94377,
+      "row": 179
+    },
+    {
+      "date": "2026-09-07",
+      "rank": 1,
+      "star": 4938,
+      "episodes": 98,
+      "chars": 101910,
+      "row": 179
+    },
+    {
+      "date": "2026-09-08",
+      "rank": 1,
+      "star": 5390,
+      "episodes": 100,
+      "chars": 106009,
+      "row": 177
+    },
+    {
+      "date": "2026-09-09",
+      "rank": 1,
+      "star": 5878,
+      "episodes": 102,
+      "chars": 109734,
+      "row": 176
+    },
+    {
+      "date": "2026-09-10",
+      "rank": 1,
+      "star": 6269,
+      "episodes": 104,
+      "chars": 112698,
+      "row": 169
+    },
+    {
+      "date": "2026-09-11",
+      "rank": 1,
+      "star": 6662,
+      "episodes": 108,
+      "chars": 120624,
+      "row": 169
+    },
+    {
+      "date": "2026-09-12",
+      "rank": 1,
+      "star": 7026,
+      "episodes": 112,
+      "chars": 127356,
+      "row": 174
+    },
+    {
+      "date": "2026-09-13",
+      "rank": 1,
+      "star": 7401,
+      "episodes": 115,
+      "chars": 133359,
+      "row": 172
+    },
+    {
+      "date": "2026-09-15",
+      "rank": 1,
+      "star": 8133,
+      "episodes": 122,
+      "chars": 146897,
+      "row": 175
+    },
+    {
+      "date": "2026-09-16",
+      "rank": 1,
+      "star": 8488,
+      "episodes": 125,
+      "chars": 152111,
+      "row": 175
+    },
+    {
+      "date": "2026-09-18",
+      "rank": 1,
+      "star": 9061,
+      "episodes": 132,
+      "chars": 165431,
+      "row": 180
+    },
+    {
+      "date": "2026-09-19",
+      "rank": 1,
+      "star": 9299,
+      "episodes": 134,
+      "chars": 169586,
+      "row": 178
+    },
+    {
+      "date": "2026-09-20",
+      "rank": 1,
+      "star": 9566,
+      "episodes": 136,
+      "chars": 174978,
+      "row": 176
+    },
+    {
+      "date": "2026-09-21",
+      "rank": 1,
+      "star": 9827,
+      "episodes": 138,
+      "chars": 179118,
+      "row": 180
+    },
+    {
+      "date": "2026-09-24",
+      "rank": 3,
+      "star": 10857,
+      "episodes": 145,
+      "chars": 194431,
+      "row": 176
+    },
+    {
+      "date": "2026-09-30",
+      "rank": 6,
+      "star": 11865,
+      "episodes": 159,
+      "chars": 221223,
+      "row": 174
+    }
+  ]
+}

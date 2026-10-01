@@ -1,0 +1,64 @@
+{
+  "latest_rows": 202,
+  "current": 200,
+  "current_unique_ids": 200,
+  "current_genres": {
+    "現代ファンタジー": 100,
+    "異世界ファンタジー": 100
+  },
+  "current_status": {
+    "連載中": 192,
+    "完結済": 8
+  },
+  "current_classes": {
+    "新規ランクイン": 102,
+    "継続": 98
+  },
+  "current_span_days": {
+    "1": 200
+  },
+  "history_rows": 657,
+  "history_linked_ids": 636,
+  "history_deduped": 655,
+  "history_unique_linked_ids": 635,
+  "history_genres": {
+    "異世界ファンタジー": 342,
+    "現代ファンタジー": 315
+  },
+  "screened": 114,
+  "screened_current": 45,
+  "current_dungeon_intro_keyword": 70,
+  "report_files_read": 54,
+  "latest_daily_coverage": [
+    {
+      "file": "growth_report_2026-09-22.xlsx",
+      "genres": {
+        "現代ファンタジー": 100
+      },
+      "ranked": 100
+    },
+    {
+      "file": "growth_report_2026-09-23.xlsx",
+      "genres": {
+        "現代ファンタジー": 100
+      },
+      "ranked": 100
+    },
+    {
+      "file": "growth_report_2026-09-24.xlsx",
+      "genres": {
+        "現代ファンタジー": 100,
+        "異世界ファンタジー": 100
+      },
+      "ranked": 200
+    },
+    {
+      "file": "growth_report_2026-09-30.xlsx",
+      "genres": {
+        "現代ファンタジー": 100,
+        "異世界ファンタジー": 100
+      },
+      "ranked": 200
+    }
+  ]
+}
